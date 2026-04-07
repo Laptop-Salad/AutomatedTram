@@ -18,8 +18,8 @@ The overall system, should include
 •	Any additional information of relevance to the system overall, e.g legal, privacy or other considerations
 
 ## Nodes
-- [Station Edge Node 1](nodes/Station_1/md)
-- [Station Edge Node 2](nodes/Station_2.md)
-- [Train Edge Node](nodes/Train.md)
-- [Occupancy Edge Node](nodes/Occupancy.md)
-- [Sink/Gateway Edge Node](nodes/Gateway.md)
+- [Station Edge Node 1](Nodes/Station_1/md)
+- [Station Edge Node 2](Nodes/Station_2.md)
+- [Train Edge Node](Nodes/Train.md)
+- [Occupancy Edge Node](Nodes/Occupancy.md)
+- [Sink/Gateway Edge Node](Nodes/Gateway.md)
