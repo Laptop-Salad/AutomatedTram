@@ -1,4 +1,4 @@
-Team: Cypress
+Team: Cypress <br>
 Team members: Amanda Wallis, Amina Ndiaye Gaye, Wiktoria Bardzik and Keiko Hisana Azka.
 
 # System Description (300 w)
